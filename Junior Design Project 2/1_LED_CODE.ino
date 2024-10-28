@@ -1,7 +1,8 @@
 /*
-Aidan Gresko
-Jake kolevas
-main
+Zach
+jake kolevas
+Aiden Gresko
+
   Blink
 
   Turns an LED on for one second, then off for one second, repeatedly.
